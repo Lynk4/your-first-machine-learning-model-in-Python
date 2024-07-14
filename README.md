@@ -1,1 +1,1 @@
-# your-first-machine-learning-model-in-Python
+# Your First Machine Learning Model In Python
